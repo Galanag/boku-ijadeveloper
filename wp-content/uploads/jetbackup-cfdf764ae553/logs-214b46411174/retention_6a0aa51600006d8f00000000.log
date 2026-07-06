@@ -1,0 +1,10 @@
+[2026-05-18 05:35:45] [196.191.93.97] Execution time limit: 50 seconds (PHP max_execution_time: 60)
+[2026-05-18 05:35:45] [196.191.93.97] Starting snapshots retention cleanup
+[2026-05-18 05:35:45] [196.191.93.97] [_markManualSnapshots] Manual Backups retention disabled, skipping
+[2026-05-18 05:35:45] [196.191.93.97] [_markImportedSnapshots] Execution time: 0
+[2026-05-18 05:35:45] [196.191.93.97] [_markImportedSnapshots] TTL time: 50
+[2026-05-18 05:35:45] [196.191.93.97] [_markImportedSnapshots] No imported destination found, skipping
+[2026-05-18 05:35:45] [196.191.93.97] [_deleteSnapshots] Execution time: 0
+[2026-05-18 05:35:45] [196.191.93.97] [_deleteSnapshots] TTL time: 50
+[2026-05-18 05:35:45] [196.191.93.97] Completed!
+[2026-05-18 05:35:45] [196.191.93.97] Total time: 0
